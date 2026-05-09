@@ -1,0 +1,7 @@
+#Sala 2
+#Autoria de Filipe Ribeiro e Joaquim Neves
+Dimensões (900,700)
+Dock1 Rectangle(Point(0,0), Point(6,6))
+Dock2 Rectangle(Point(94,94), Point(100,100))
+Table1 Rectangle(Point(10,10),Point(20,20))
+Table2 Circle(Point(40,50),Point(60,50))
