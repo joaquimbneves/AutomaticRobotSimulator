@@ -3,6 +3,7 @@
 
 Project developed for Fundamentos da Programação (Programming foundations)
 
+To start running the code open the menu program.
 In this project, an automatic robot is simulated.
 There are multiple rooms (it is possible to customize one's own room) which include tables, that for the robot constitute obstacles.
 The robot is automized to be efficient and avoid the obstacles in its course.
